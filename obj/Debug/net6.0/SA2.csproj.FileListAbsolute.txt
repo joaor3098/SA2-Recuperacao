@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\SA2\bin\Debug\net6.0\SA2.exe
+C:\Users\admin\Desktop\SA2\bin\Debug\net6.0\SA2.deps.json
+C:\Users\admin\Desktop\SA2\bin\Debug\net6.0\SA2.runtimeconfig.json
+C:\Users\admin\Desktop\SA2\bin\Debug\net6.0\SA2.dll
+C:\Users\admin\Desktop\SA2\bin\Debug\net6.0\SA2.pdb
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\SA2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\SA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\SA2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\SA2.AssemblyInfo.cs
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\SA2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\SA2.dll
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\refint\SA2.dll
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\SA2.pdb
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\SA2.genruntimeconfig.cache
+C:\Users\admin\Desktop\SA2\obj\Debug\net6.0\ref\SA2.dll
